@@ -9,6 +9,4 @@ author: Maybe
 
 Life is life dannananananan, life is life 
 
-![Opus](/assets/img/hqdefault.jpg)
-
-[back](./)
+![Opus]( 1337-posts/assets/img/hqdefault.jpg)
