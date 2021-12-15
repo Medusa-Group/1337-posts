@@ -2,7 +2,7 @@
 layout: post
 ---
 
-## Welcome to another page
+## Test
 
 _yay_
 
