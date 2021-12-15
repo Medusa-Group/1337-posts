@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Test1
-date: 2020-12-15 16:41:03 -800
-author: Maybe
+title: Our second post
+date: 2021-12-15 16:41:03 -800
+author: Reddie
 ---
 
 ## Test
